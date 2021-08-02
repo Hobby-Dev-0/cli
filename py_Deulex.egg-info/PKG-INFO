@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: py-Deulex
+Version: 0.3
+Summary: A Secure and Powerful Python-PyrogramBased Library For DeulexUBbot .
+Home-page: https://github.com/Deulex-Userbot/Deulex
+Author: Noob
+Author-email: coder3954@gmail.com
+License: GNU AFFERO GENERAL PUBLIC LICENSE (v3)
+Description: 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
